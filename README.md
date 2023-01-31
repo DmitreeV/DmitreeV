@@ -4,6 +4,7 @@
   hey I'm Dmitry
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<img src="https://komarev.com/ghpvc/?username=DmitreeV&style=flat-square&color=000000" alt=""/>
 </div>
 
 
@@ -33,6 +34,7 @@
   requests if the necessary thing is not yet on the platform. Implemented in the form of microservices - one for query
   validation, the second for the rest of the business logic, the database is also connected as a separate microservice.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitreev&show_icons=true&theme=dark)](https://github.com/dmitreev/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitreeV&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitreeV&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitreeV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 - How to reach me: dim.valercko2011@yandex.com

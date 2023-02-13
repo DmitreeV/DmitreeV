@@ -13,13 +13,13 @@
 
 <p align="center"><font color="696969" size ="4" face ="Tahoma">My Projects</font></p>
 
-[![Filmorate](https://img.shields.io/badge/-Filmorate-000000?style=for-the-badge&logo=GitHub)](https://github.com/DmitreeV/java-filmorate) <img src="https://media.giphy.com/media/9gyPRcVPbY3QDWgqcN/giphy.gif" width="3px "/>
+[![Filmorate](https://img.shields.io/badge/-Filmorate-000000?style=for-the-badge&logo=GitHub)](https://github.com/DmitreeV/java-filmorate) 
 
 - Это социальная сеть для оценки фильмов с возможностью добавления пользователей в друзья, отображения рекомендаций по
   фильмам для просмотра, поиска фильмов по названию / режиссеру. Использованные технологии :
   Java 11, Maven, Spring-Boot, Lombok, JDBC, H2Database, RestTemplate.
 
-[![Share It](https://img.shields.io/badge/-ShareIt-000000?style=for-the-badge&logo=GitHub)](https://github.com/DmitreeV/java-shareit) <img src="https://media.giphy.com/media/9gyPRcVPbY3QDWgqcN/giphy.gif" width="3px "/>
+[![Share It](https://img.shields.io/badge/-ShareIt-000000?style=for-the-badge&logo=GitHub)](https://github.com/DmitreeV/java-shareit) 
 
 - Это сервис совместного использования вещей. Пользователь может брать вещи напрокат, оставлять отзывы о вещах, которые были взяты им в шеринг, создавать запрос если нужной вещи еще нет на платформе. Приложение состоит из нескольких микросервисов. REST-сервисы с использованием Spring-Boot, Maven, Lombok, взаимодействие с базой данных (PostgreSQL) с использованием Hibernate, Docker. База данных также подключается как отдельный микросервис.
 <p align="center"><font color="696969" size ="4" face ="Tahoma">My Skills</font></p>

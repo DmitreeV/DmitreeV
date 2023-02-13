@@ -15,16 +15,13 @@
 
 [![Filmorate](https://img.shields.io/badge/-Filmorate-000000?style=for-the-badge&logo=GitHub)](https://github.com/DmitreeV/java-filmorate)
 
-- this is a social network for evaluating movies with the ability to add users to friends, display recommendations for
-  movies to watch, search for movies by title / director. It will help you find a movie to watch for the evening based
-  on recommendations, taking into account similar ratings that you and your friends have given to other films.
+- Это социальная сеть для оценки фильмов с возможностью добавления пользователей в друзья, отображения рекомендаций по
+  фильмам для просмотра, поиска фильмов по названию / режиссеру. Использованные технологии :
+  Java 11, Maven, Spring-Boot, Lombok, JDBC, H2Database, RestTemplate.
 
 [![Share It](https://img.shields.io/badge/-ShareIt-000000?style=for-the-badge&logo=GitHub)](https://github.com/DmitreeV/java-shareit)
 
-- this is a platform for renting things. You can rent things, leave reviews on things that have been rented, create
-  requests if the necessary thing is not yet on the platform. Implemented in the form of microservices - one for query
-  validation, the second for the rest of the business logic, the database is also connected as a separate microservice.
-
+- Это сервис совместного использования вещей. Пользователь может брать вещи напрокат, оставлять отзывы о вещах, которые были взяты им в шеринг, создавать запрос если нужной вещи еще нет на платформе. Приложение состоит из нескольких микросервисов. REST-сервисы с использованием Spring-Boot, Maven, Lombok, взаимодействие с базой данных (PostgreSQL) с использованием Hibernate, Docker. База данных также подключается как отдельный микросервис.
 <p align="center"><font color="696969" size ="4" face ="Tahoma">My Skills</font></p>
 
 ![Java](https://img.shields.io/badge/-Java-FFF8DC?style=for-the-badge&logo=java)

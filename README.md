@@ -22,12 +22,12 @@
 
 - Это сервис совместного использования вещей. Пользователь может брать вещи напрокат, оставлять отзывы о вещах, которые были взяты им в шеринг, создавать запрос если нужной вещи еще нет на платформе. Приложение состоит из нескольких микросервисов. REST-сервисы с использованием Spring-Boot, Maven, Lombok, взаимодействие с базой данных (PostgreSQL) с использованием Hibernate, Docker. База данных также подключается как отдельный микросервис.
 
-микросервис.
+
 
 [![Work for you](https://img.shields.io/badge/-Work_for_you-000000?style=for-the-badge&logo=GitHub)](https://github.com/DmitreeV/java-work-for-you) 
 
 - Work for you - это приложение для поиска работы. Пользователь может создавать резюме, просматривать опубликованные вакансии и откликаться на них, просматривать информацию о компаниях и оставлять отзывы, искать подходящие для себя вакансии в поисковике и др.
-  Использованные технологии : * Spring Framework, Spring Boot, JPA+API, Spring Security, Mapstruct, Swagger, Maven, Postgres, Docker.
+  Использованные технологии : Spring Framework, Spring Boot, JPA+API, Spring Security, Mapstruct, Swagger, Maven, Postgres, Docker.
 
 [![Filmorate](https://img.shields.io/badge/-Filmorate-000000?style=for-the-badge&logo=GitHub)](https://github.com/DmitreeV/java-filmorate) 
 

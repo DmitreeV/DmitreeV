@@ -7,7 +7,7 @@
 ### About me
 - 📄 I love coding, I'm open to new offers
 - 💻 Check my [projects](https://github.com/DmitreeV?tab=repositories)
-- 📫 Reach me by email dim.valercko2011@yandex.com
+- 📫 Reach me by email dim.valercko2011@yandex.com or [telegram](https://t.me/dmitryvalerko)
 
 ### My skills
 

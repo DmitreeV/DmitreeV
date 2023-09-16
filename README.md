@@ -19,7 +19,7 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tomcat/tomcat-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/png-clipart-1c-company-logo-computer-icons-1c-enterprise-1С-Документооборот-adobe-reader-trademark-l.svg" title="sql" width="50" height="50"/>&nbsp;
+<img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/67-37-papik-pro-p-logotip-1s-foto-41.svg" title="sql" width="40" height="40"/>&nbsp;
 
 
  

@@ -15,11 +15,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="spring" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tomcat/tomcat-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/67-37-papik-pro-p-logotip-1s-foto-41.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tomcat/tomcat-original.svg" title="tomcat" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" title="intellij" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original.svg" title="redis" width="40" height="40"/>&nbsp;
+<img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/67-37-papik-pro-p-logotip-1s-foto-41.svg" title="1C" width="40" height="40"/>&nbsp;
 
 
  

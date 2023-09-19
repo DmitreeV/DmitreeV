@@ -19,9 +19,8 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tomcat/tomcat-original.svg" title="tomcat" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" title="intellij" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original.svg" title="redis" width="40" height="40"/>&nbsp;
-<img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/ransparent-postman-hd-logo-thumbnail.svg" title="postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/postman-logo-0087ca0d15-seeklogo-com.svg" title="postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/swagger-logo.svg" title="swagger" width="40" height="40"/>&nbsp;
-<img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/t-client-computer-software-hibernate.svg" title="maven" width="40" height="40"/>&nbsp;
 <img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/67-37-papik-pro-p-logotip-1s-foto-41.svg" title="1C" width="40" height="40"/>&nbsp;
 
 

@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Hi, I'm  Dmitry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
-    <h3>Java Developer from Saint-Petersburg</h3>
+    <h1></h1>
+    <h3>Hi, I'm  Dmitry, Java Developer from Saint-Petersburg</h3>
 <img src="https://komarev.com/ghpvc/?username=DmitreeV&style=flat-square&color=000000" alt=""/>
 </div>
 

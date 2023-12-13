@@ -1,7 +1,6 @@
-<div id="header" align="center">
-    <h1></h1>
-    <h3>Hi, I'm  Dmitry, Java Developer from Saint-Petersburg</h3>
-<img src="https://komarev.com/ghpvc/?username=DmitreeV&style=flat-square&color=000000" alt=""/>
+<div id="header">
+    <h1>Hi, I'm  Dmitry</h1>
+    <h3>Java Developer from Saint-Petersburg</h3>
 </div>
 
 ### About me
@@ -24,5 +23,5 @@
 <img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/67-37-papik-pro-p-logotip-1s-foto-41.svg" title="1C" width="40" height="40"/>&nbsp;
 
 
-
+<img src="https://komarev.com/ghpvc/?username=DmitreeV&style=flat-square&color=000000" alt=""/>
  

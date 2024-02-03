@@ -1,6 +1,6 @@
 <div id="header">
     <h1>Hi, I'm  Dmitry</h1>
-    <h3>Java Developer from Saint-Petersburg</h3>
+    <h3>Developer from Saint-Petersburg</h3>
 </div>
 
 ### About me
